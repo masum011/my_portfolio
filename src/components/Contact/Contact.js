@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div>
         <Container fluid className="project-section">
-            <h1>Contact Page progress...</h1>
+            <h1 style={{color: 'white'}}>Contact Page progress...</h1>
         </Container>
     </div>
   )
